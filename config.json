@@ -1,0 +1,149 @@
+
+{
+  "appRedirect": {
+    "status": false,
+    "redirectURL": "http://www.amazon.com/gp/mas/dl/android?p=com.adobe.air"
+  },
+
+  "AdsController": {
+    
+    "README": "To run ads for each network, enter one of the following: 'admob', 'applovin', or 'hws'.",
+    
+    "AdInterval": 1,
+    
+    "BannerNetwork"      : "hws",
+    "InterstitialNetwork": "hws",
+    "RewardNetwork"      : "hws",
+    
+    "AdPlacement": {
+      
+      "AdMobBanner": "ca-app-pub-3940256099942544/630097811112",
+      "AdMobInterstitialAd": "ca-app-pub-3940256099942544/103317371213",
+      "AdMobRewardAd": "ca-app-pub-3940256099942544/522435491755",
+      
+      "ApplovinKey": "10PlbbIo7l002Tx39uGBD0B0T5Tzxnfyn4hNg-9okAoneiqpb5-q59qZFNXB8C7wGqHxoRiVbVGFD42p91cFBR",
+      "ApplovinBanner": "da17eff31ae69f15",
+      "ApplovinInterstitialAd": "98f6a586ed642919",
+      "ApplovinRewardAd": "98f6a586ed642919",
+      
+      "HuaweiBanner": "testw6vs28auh355",
+      "HuaweiInterstitialAd": "testb4znbuh3n255",
+      "HuaweiRewardAd": "testx9dtjwj8hpggg"
+    }
+  },
+  
+  "MinecraftData": {
+    "Addons": [
+      {
+        "title": "AG's Morph Mobs Addon",
+        "addonLink": "https://github.com/trendradarhub/Jennifer-Carroll/raw/refs/heads/main/Morph/AG's%20Morph%20Mobs/698686.zip",
+        "isLocked": false,
+        "coins": 0,
+        "description": "Introducing AG's Morph Mobs, the ultimate Minecraft addon that unleashes your shapeshifting abilities like never before! With this groundbreaking addon, players can seamlessly transform into any Minecraft mob at their whim, opening up a whole new world of possibilities and adventures. OVER 70+ MOBS !",
+        "preview": [
+          "https://api.mcpedl.com/storage/submissions/116798/100/fererrere_1-520x245.png",
+          "https://r2.mcpedl.com/submissions/214539/images/ags-morph-mobs_24.png",
+          "https://r2.mcpedl.com/submissions/214539/images/ags-morph-mobs_7.png",
+          "https://r2.mcpedl.com/submissions/214539/images/ags-morph-mobs_21.png"
+        ]
+      },
+          {
+        "title": "Morph Addon Official 1.0 Addon",
+        "addonLink": "https://github.com/trendradarhub/Jennifer-Carroll/raw/refs/heads/main/Morph/Morph%20Addon%20Official%201.0/164767.zip",
+        "isLocked": false,
+        "coins": 0,
+        "description": "Supported Minecraft versions : 1.17+",
+        "preview": [
+          "https://api.mcpedl.com/storage/submissions/27222/105/logo_1-520x245.png"
+        ]
+      },
+           {
+        "title": "Cda's Morph Addon",
+        "addonLink": "https://github.com/trendradarhub/Jennifer-Carroll/raw/refs/heads/main/Morph/Cda's%20Morph/306274.zip",
+        "isLocked": false,
+        "coins": 0,
+        "description": "Cda’s Morph Add-on brings the popular Java Edition Morph Mod onto Bedrock Edition! This currently supports all the mobs as stated by Minecraft Gamepedia, minus the Ender Dragon. You are able to morph into mobs and take their appearance and more using items that you can either craft or get by killing a mob.",
+        "preview": [
+          "https://api.mcpedl.com/storage/submissions/34497/107/20210316-cdas-morph-addon-youtube-thumbnail_1-520x245.png",
+          "https://r2.mcpedl.com/submissions/106974/images/morph-addon-official-10_2.png",
+          "https://r2.mcpedl.com/submissions/106974/images/morph-addon-official-10_3.png",
+          "https://r2.mcpedl.com/submissions/106974/images/morph-addon-official-10_4.png"
+        ]
+      },
+           {
+        "title": "Morphing Bracelet Addon",
+        "addonLink": "https://github.com/trendradarhub/Jennifer-Carroll/raw/refs/heads/main/Morph/Morphing%20Bracelet/721169.zip",
+        "isLocked": false,
+        "coins": 0,
+        "description": "Morphing Bracelet is a brand new item that allows players to morph into several mobs! Do you want to be a creeper and explode your friend's house? Well, now you can! With this a..",
+        "preview": [
+          "https://api.mcpedl.com/storage/submissions/58261/122/thumbnail-mcpedl_1-520x245.png",
+          "https://r2.mcpedl.com/submissions/232660/images/morphing-bracelet-beta_2.png"
+        ]
+      },
+               {
+        "title": "Item Morph Addon",
+        "addonLink": "https://github.com/trendradarhub/Jennifer-Carroll/raw/refs/heads/main/Morph/Item%20Morph%20Addon/718908.zip",
+        "isLocked": false,
+        "coins": 0,
+        "description": "Do You Like Morph Mods In Minecraft? Well, this Addon is for you!! Its because with this Addon, you can now turn into amethyst, flowers, and many more!! And the morphs are also ..",
+        "preview": [
+          "https://api.mcpedl.com/storage/submissions/116873/100/20240305071101_1-520x245.png",
+          "https://r2.mcpedl.com/submissions/225402/images/item-morph-addon_2.jpeg",
+          "https://r2.mcpedl.com/submissions/214785/images/item-morph-addon_2.jpeg",
+          "https://r2.mcpedl.com/submissions/225402/images/item-morph-addon_3.jpeg"
+        ]
+      },
+               {
+        "title": "Pokemon Morph Addon Addon",
+        "addonLink": "https://github.com/trendradarhub/Jennifer-Carroll/raw/refs/heads/main/Morph/Pokemon%20Morph%20Addon/pokemon1.zip",
+        "isLocked": false,
+        "coins": 0,
+        "description": "Pokemon addon for minecraft bedrock that adds 4 pokemon that stays by your side to walk with you through the world of minecraft and has pokemon..",
+        "preview": [
+          "https://api.mcpedl.com/storage/submissions/84224/100/fsafasfsafasfasff_1-520x245.png"
+        ]
+      },
+               {
+        "title": "The Ultimate Morph Addon",
+        "addonLink": "https://github.com/trendradarhub/Jennifer-Carroll/raw/refs/heads/main/Morph/The%20Ultimate%20Morph/morph.zip",
+        "isLocked": false,
+        "coins": 0,
+        "description": "Hello friends Ultimate Morph Addon is a Morph Addon For Minecraft Pocket Edition in this addon you can morph into the following:Block (Glass, Sapling,..",
+        "preview": [
+          "https://api.mcpedl.com/storage/submissions/95220/100/picsart221127004132568_1-520x245.png"
+        ]
+      }
+    ]
+  },
+  
+  "AppsPromote": {
+    "status": false,
+    "apps": [
+      {
+        "name": "Minecraft PE skyblock",
+        "packageName": "com.adobe.air",
+        "icon": "https://play-lh.googleusercontent.com/_KVgzJrTgMAgtOVMWUtOTbJjFv2H8BVAzIWX73mTkZglztux4F0yHO0OH_L7auFf3A=w240-h480",
+        "download": "+100 K"
+      },
+      {
+        "name": "Houses Maps",
+        "packageName": "com.andiqwer.house_maps",
+        "icon": "https://play-lh.googleusercontent.com/bQsbA_haB-0iEsxZ6MdgH0fjtsmlQkMiSusNLybYrevbC1O6ksLhlqfL9MTCqOUWnEo=w240-h480",
+        "download": "+500 K"
+      },
+      {
+        "name": "Guns Mods",
+        "packageName": "com.AndiQwer.GunMods",
+        "icon": "https://play-lh.googleusercontent.com/LeOVlNtItLA87uqKnjvo0hjBEOLdMKNheAOYI40qiOERuFXfZLZ2LQ5U6bk9rbfj7pPC=w240-h480",
+        "download": "+1 Million"
+      },
+      {
+        "name": "Cars Mods",
+        "packageName": "com.andiqwer.car_mods",
+        "icon": "https://play-lh.googleusercontent.com/lnbR00xtm3QcQWCUf9N9i4fOZBK6M0AuczactBbOFUuo2DbRU3VS0x9yUqTvVtnFyg=w240-h480",
+        "download": "+50 Million"
+      }
+    ]
+  }
+}
